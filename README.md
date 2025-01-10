@@ -8,4 +8,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 `mv ~/.local/share/nvim{,.bak}`
 `mv ~/.local/state/nvim{,.bak}`
 `mv ~/.cache/nvim{,.bak}`
-`git clone https://github.com/528-dev/myLazyVim.git`
+`git clone https://github.com/528-dev/myLazyVim.git ~/.config/nvim`
